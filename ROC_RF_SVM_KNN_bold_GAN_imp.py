@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 11 18:19:39 2021
-
-@author: adogan
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sat May 30 17:33:25 2020
 
 @author: adogan

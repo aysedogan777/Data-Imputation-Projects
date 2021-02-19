@@ -1,15 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/aysedogan777/Data-Imputation-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Summary
+The tools that I am using and planning to use are here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Working on Data
 ## Predictions and Recommendation Systems
@@ -25,10 +19,11 @@ Syntax highlighted code block
   7. Pipelines
 - R
 - SAS
+- SQL
+- Spark (Improving)
+- Hadoop (Improving)
 
 
-
-**Bold** and _Italic_ and `Code` text
 
 More details about me [Link](https://www.linkedin.com/in/ayse-dogan-6ab955105/) 
 ```

@@ -1,19 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb  9 08:19:37 2021
-
-@author: adogan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  9 13:51:44 2020
-
-@author: adogan
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Aug 25 17:31:59 2020
 
 @author: adogan
